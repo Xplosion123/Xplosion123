@@ -4,7 +4,6 @@
 - 💻 Conhecimentos em **Python, C#, HTML, CSS e JavaScript**  
 - 🚀 Desenvolvimento de **projetos pessoais** em aplicações web e C#  
 - 🔐 Estudante de **Segurança da Informação (Pentest)** com práticas na **TryHackMe**  
-- 🎮 Estudante de **Desenvolvimento de Jogos**, com projetos no **Roblox Studio** e na **Unreal Engine**  
 
 ---
 
@@ -13,8 +12,7 @@
 - 🎓 Student of **Systems Development** (ETEC)  
 - 💻 Knowledge in **Python, C#, HTML, CSS and JavaScript**  
 - 🚀 Working on **personal projects** focused on web applications and C#  
-- 🔐 Student of **Information Security (Pentesting)**, practicing with **TryHackMe**  
-- 🎮 Student of **Game Development**, with projects on **Roblox Studio** and **Unreal Engine**  
+- 🔐 Student of **Information Security (Pentesting)**, practicing with **TryHackMe**   
 
 <div>
   <a href="https://github.com/Xplosion123">
